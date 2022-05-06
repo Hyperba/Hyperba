@@ -1,6 +1,6 @@
 👋 Hello there! My name is Hyperba and I am a 16 year old python developer! 
 
-👀 I’m interested in Game Development and Ethical Hacking
+👀 I’m interested in Programming and Ethical Hacking
 
 🌱 I’m currently learning different Python modules to use in my projects!
 

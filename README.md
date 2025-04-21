@@ -4,7 +4,7 @@ I'm a passionate self-taught **React developer** and entrepreneur building meani
 
 ## 🚀 About Me
 
-- 🎯 19 y/o developer on a mission to escape the traditional path and **build SaaS tools** that solve real-world problems.
+- 🎯 Developer on a mission to escape the traditional path and **build SaaS tools** that solve real-world problems.
 - 📚 Currently learning and working with **React.js**, **Supabase**, **Node.js**, and **Python**.
 - 🧠 I build tools that combine **AI + automation** to solve specific, high-impact pain points.
 - 🔥 I love **entrepreneurship, product design, and creative problem-solving**.
@@ -34,7 +34,7 @@ I'm currently working with clients as a freelance developer, helping them:
 
 ## 📬 Let’s Connect
 
-- 💼 Software Agency: [https://nagyflow.com]
+- 💼 My Software Agency: [NagyFlow](https://nagyflow.com)
 - 📧 Email: nagyziad2006@gmail.com
 - 🧠 Instagram: [@ziadnagy_](https://instagram.com/ziadnagy_)
 - 🌐 YouTube: [Hyperba](https://www.youtube.com/@Hyperba)

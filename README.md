@@ -35,7 +35,7 @@ I'm currently working with clients as a freelance developer, helping them:
 ## 📬 Let’s Connect
 
 - 💼 My Software Agency: [NagyFlow](https://nagyflow.com)
-- 📧 Email: nagyziad2006@gmail.com
+- 📧 Email: zhishnagy@gmail.com
 - 🧠 Instagram: [@ziadnagy_](https://instagram.com/ziadnagy_)
 - 🌐 YouTube: [Hyperba](https://www.youtube.com/@Hyperba)
 

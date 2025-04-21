@@ -12,10 +12,11 @@ I'm a passionate self-taught **React developer** and entrepreneur building meani
 ## 🛠️ Tech Stack
 
 | Frontend     | Backend        | Database       | Tools & Hosting          | AI & Misc |
-|--------------|----------------|----------------|---------------------------|-----------|
-| React.js     | Node.js        | Supabase       | Vercel, Netlify, Coolify  | OpenAI, Python |
-| JavaScript   | Express.js     | PostgreSQL     | GitHub Actions            | Redis, Bun.js |
-| HTML / CSS   | REST APIs      | Directus CMS   | Hetzner (Cloud Hosting)   | NLP & LLMs |
+|--------------|----------------|----------------|---------------------------|----------------|
+| React.js     | Node.js        | Supabase       | Vercel                    | OpenAI         |
+| JavaScript   | Express.js     | PostgreSQL     | GitHub Actions            | Redis, Bun.js  |
+| Vite         | Flask          | Directus CMS   | Netlify                   | NLP & LLMs     |
+| Next.js      | FastAPI        | Firebase       | Railway                   | Py, C#, Java   |
 
 ## 💼 Freelance Work & Projects
 
